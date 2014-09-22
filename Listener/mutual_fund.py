@@ -1,3 +1,6 @@
+#This is the beta version of the program that analyzes mutual funds on the EDGAR data base by 
+#viewing stock holdings from 13F-HR forms. 
+
 __author__ = 'xxdpavelxx'
 #6.3,6.5,6.6,6.7,11.1 python cookbook
 
